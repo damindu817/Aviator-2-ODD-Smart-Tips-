@@ -161,7 +161,7 @@
   scrollBox.addEventListener('scroll', () => {
     if (scrollBox.scrollTop + scrollBox.clientHeight >= scrollBox.scrollHeight - 10) {
       proceedBtn.classList.add('active');
-      proceedBtn.href = "signal.html"; // ඔබේ Signal පිටුව link එක මෙහි සකස් කරන්න
+      proceedBtn.href = "https://damindu817.github.io/AVIATOR-2---3-ODD---1XBET/
     }
   });
 
